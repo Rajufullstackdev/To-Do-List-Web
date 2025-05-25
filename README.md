@@ -7,6 +7,6 @@ Implemented features such as adding, deleting, completing, and saving tasks usin
 
 Utilized GitHub Copilot to generate code suggestions and accelerate the development process.
 
-Designed a clean user interface with HTML and CSS for an intuitive user experience.
+Designed a clean user interface with HTML5 and CSS3 for an intuitive user experience.
 
 Deployed the application on GitHub Pages for public access.
