@@ -1,8 +1,12 @@
 # To-Do-List-Web
-Developed a responsive task management web application using HTML5, CSS3, and JavaScript with GitHub Copilot.
+Tech Stack: HTML5, CSS3, JavaScript, GitHub Pages, GitHub Copilot
 
-Implemented features like task creation, status updates, and storage using localStorage.
+Developed a dynamic and responsive to-do list web application to manage daily tasks efficiently.
 
-Used GitHub Copilot to speed up development by generating code suggestions and enhancing productivity.
+Implemented features such as adding, deleting, completing, and saving tasks using JavaScript and browser localStorage.
 
-Deployed the application using GitHub Pages.
+Utilized GitHub Copilot to generate code suggestions and accelerate the development process.
+
+Designed a clean user interface with HTML and CSS for an intuitive user experience.
+
+Deployed the application on GitHub Pages for public access.
